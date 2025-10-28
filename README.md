@@ -12,14 +12,6 @@ The system is designed to manage:
 - Encryption of messages, character by character
 - Decryption of the encrypted data to verify the original message
 
----
-
-## 👥 Authors
-- **Khalil Naffeti**
-- **Thouaiba Boumedyen**
-
----
-
 ## 🗂️ Project Structure & Key Features
 
 ### 1. Main Menu & Message Management
