@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1713125239 source:c:\users\khalil\documents\codeblocks\projet_asd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+	"PILEPRIM.h"
+
+1713119809 source:c:\users\khalil\documents\codeblocks\projet_asd2\eltstr.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1713119809 c:\users\khalil\documents\codeblocks\projet_asd2\eltprim.h
+	"ELTSDD.h"
+
+1713119809 c:\users\khalil\documents\codeblocks\projet_asd2\eltsdd.h
+	"ELTSTR.h"
+
+1713119809 c:\users\khalil\documents\codeblocks\projet_asd2\eltstr.h
+
+1713119810 source:c:\users\khalil\documents\codeblocks\projet_asd2\lsttab.c
+	<stdlib.h>
+	<stdio.h>
+	"LSTPRIM.H"
+
+1713119809 c:\users\khalil\documents\codeblocks\projet_asd2\lstprim.h
+	"ELTPRIM.H"
+	"LSTSDD.H"
+
+1713119809 c:\users\khalil\documents\codeblocks\projet_asd2\lstsdd.h
+	"LSTTAB.h"
+
+1713119809 c:\users\khalil\documents\codeblocks\projet_asd2\lsttab.h
+	"ELTPRIM.H"
+
+1713119809 source:c:\users\khalil\documents\codeblocks\projet_asd2\piletab.c
+	<stdlib.h>
+	<stdio.h>
+	"PILEPRIM.H"
+
+1713119809 c:\users\khalil\documents\codeblocks\projet_asd2\pileprim.h
+	"ELTPRIM.H"
+	"PILESDD.H"
+
+1713119809 c:\users\khalil\documents\codeblocks\projet_asd2\pilesdd.h
+	"PILETAB.h"
+
+1713119809 c:\users\khalil\documents\codeblocks\projet_asd2\piletab.h
+	"ELTPRIM.H"
+
+1712935584 source:c:\users\thoua\onedrive\desktop\projet_asd2 complet(1)\projet_asd2\eltstr.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1712935681 c:\users\thoua\onedrive\desktop\projet_asd2 complet(1)\projet_asd2\eltprim.h
+	"ELTSDD.h"
+
+1712900677 c:\users\thoua\onedrive\desktop\projet_asd2 complet(1)\projet_asd2\eltsdd.h
+	"ELTSTR.h"
+
+1712935678 c:\users\thoua\onedrive\desktop\projet_asd2 complet(1)\projet_asd2\eltstr.h
+
+1712935772 source:c:\users\thoua\onedrive\desktop\projet_asd2 complet(1)\projet_asd2\lsttab.c
+	<stdlib.h>
+	<stdio.h>
+	"LSTPRIM.H"
+
+1712900677 c:\users\thoua\onedrive\desktop\projet_asd2 complet(1)\projet_asd2\lstprim.h
+	"ELTPRIM.H"
+	"LSTSDD.H"
+
+1712900677 c:\users\thoua\onedrive\desktop\projet_asd2 complet(1)\projet_asd2\lstsdd.h
+	"LSTTAB.h"
+
+1712900677 c:\users\thoua\onedrive\desktop\projet_asd2 complet(1)\projet_asd2\lsttab.h
+	"ELTPRIM.H"
+
+1712936447 source:c:\users\thoua\onedrive\desktop\projet_asd2 complet(1)\projet_asd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+	"PILEPRIM.h"
+
+1712900677 c:\users\thoua\onedrive\desktop\projet_asd2 complet(1)\projet_asd2\pileprim.h
+	"ELTPRIM.H"
+	"PILESDD.H"
+
+1712900677 c:\users\thoua\onedrive\desktop\projet_asd2 complet(1)\projet_asd2\pilesdd.h
+	"PILETAB.h"
+
+1712900677 c:\users\thoua\onedrive\desktop\projet_asd2 complet(1)\projet_asd2\piletab.h
+	"ELTPRIM.H"
+
+1712900677 source:c:\users\thoua\onedrive\desktop\projet_asd2 complet(1)\projet_asd2\piletab.c
+	<stdlib.h>
+	<stdio.h>
+	"PILEPRIM.H"
+
+1713119809 source:c:\users\khalil\desktop\projet_asd2\eltstr.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1713119809 c:\users\khalil\desktop\projet_asd2\eltprim.h
+	"ELTSDD.h"
+
+1713119809 c:\users\khalil\desktop\projet_asd2\eltsdd.h
+	"ELTSTR.h"
+
+1713119809 c:\users\khalil\desktop\projet_asd2\eltstr.h
+
+1713119810 source:c:\users\khalil\desktop\projet_asd2\lsttab.c
+	<stdlib.h>
+	<stdio.h>
+	"LSTPRIM.H"
+
+1713119809 c:\users\khalil\desktop\projet_asd2\lstprim.h
+	"ELTPRIM.H"
+	"LSTSDD.H"
+
+1713119809 c:\users\khalil\desktop\projet_asd2\lstsdd.h
+	"LSTTAB.h"
+
+1713119809 c:\users\khalil\desktop\projet_asd2\lsttab.h
+	"ELTPRIM.H"
+
+1713119809 source:c:\users\khalil\desktop\projet_asd2\piletab.c
+	<stdlib.h>
+	<stdio.h>
+	"PILEPRIM.H"
+
+1713119809 c:\users\khalil\desktop\projet_asd2\pileprim.h
+	"ELTPRIM.H"
+	"PILESDD.H"
+
+1713119809 c:\users\khalil\desktop\projet_asd2\pilesdd.h
+	"PILETAB.h"
+
+1713119809 c:\users\khalil\desktop\projet_asd2\piletab.h
+	"ELTPRIM.H"
+
+1713095334 source:c:\users\khalil\desktop\projet_asd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+	"PILEPRIM.h"
+
+1713114834 source:c:\users\thoua\downloads\projet_asd2 (3)\projet_asd2\eltstr.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1713114803 c:\users\thoua\downloads\projet_asd2 (3)\projet_asd2\eltprim.h
+	"ELTSDD.h"
+
+1713113536 c:\users\thoua\downloads\projet_asd2 (3)\projet_asd2\eltsdd.h
+	"ELTSTR.h"
+
+1713113536 c:\users\thoua\downloads\projet_asd2 (3)\projet_asd2\eltstr.h
+
+1713113536 source:c:\users\thoua\downloads\projet_asd2 (3)\projet_asd2\lsttab.c
+	<stdlib.h>
+	<stdio.h>
+	"LSTPRIM.H"
+
+1713113536 c:\users\thoua\downloads\projet_asd2 (3)\projet_asd2\lstprim.h
+	"ELTPRIM.H"
+	"LSTSDD.H"
+
+1713113536 c:\users\thoua\downloads\projet_asd2 (3)\projet_asd2\lstsdd.h
+	"LSTTAB.h"
+
+1713113536 c:\users\thoua\downloads\projet_asd2 (3)\projet_asd2\lsttab.h
+	"ELTPRIM.H"
+
+1713113783 source:c:\users\thoua\downloads\projet_asd2 (3)\projet_asd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+	"PILEPRIM.h"
+
+1713113536 c:\users\thoua\downloads\projet_asd2 (3)\projet_asd2\pileprim.h
+	"ELTPRIM.H"
+	"PILESDD.H"
+
+1713113536 c:\users\thoua\downloads\projet_asd2 (3)\projet_asd2\pilesdd.h
+	"PILETAB.h"
+
+1713113536 c:\users\thoua\downloads\projet_asd2 (3)\projet_asd2\piletab.h
+	"ELTPRIM.H"
+
+1713113536 source:c:\users\thoua\downloads\projet_asd2 (3)\projet_asd2\piletab.c
+	<stdlib.h>
+	<stdio.h>
+	"PILEPRIM.H"
+

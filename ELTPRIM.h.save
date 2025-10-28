@@ -1,0 +1,35 @@
+#ifndef ELTPRIM_H_INCLUDED
+#define ELTPRIM_H_INCLUDED
+
+#include "ELTSDD.h"
+
+void elementLire(ELEMENT *);
+
+void elementAffecter(ELEMENT*, ELEMENT);
+
+void elementCopier(ELEMENT *, ELEMENT) ;
+
+int elementComparer(ELEMENT, ELEMENT);
+
+ELEMENT elementCreer(void) ;
+
+void elementDetruire (ELEMENT);
+
+void elementAfficher(ELEMENT);
+
+void elementCryptAfficher(int);
+
+
+void elementPileLire(ELEMENTPile *);
+
+void elementPileAffecter(ELEMENTPile*, ELEMENTPile);
+
+void elementPileCopier(ELEMENTPile *, ELEMENTPile) ;
+
+int elementPileComparer(ELEMENTPile, ELEMENTPile);
+
+ELEMENTPile elementPileCreer(int a,int b) ;
+
+void elementPileDetruire (ELEMENTPile);
+
+#endif // ELTPRIM_H_INCLUDED
